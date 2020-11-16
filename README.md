@@ -1,4 +1,4 @@
-# Shape Recognition Application
+# Shape recognition and coloring application
 
 Application that recognize and coloring 3 types of shapes:
 <ol>
